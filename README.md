@@ -2,8 +2,8 @@
 - 👀 I’m interested in Developing New things .
 - 🌱 I’m currently learning Devops and MERN stack
 - 💞️ I’m looking to collaborate on Projects 
-- 📫 How to reach me mail me punitku624@gmail.com 
-- ⚡ Fun fact: Not a any 
+- 📫 How to reach me mail, me at punitku624@gmail.com 
+- ⚡ Fun fact: Not an any 
 
 <!---
 PuneetJadoun/PuneetJadoun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
