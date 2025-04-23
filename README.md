@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PuneetJadoun
 
 - 👀 I’m interested in Developing New things
-- 🌱 I’m currently learning DevOps and MERN stack
+- 🌱 I’m currently Working on MERN stack 
 - 💞️ I’m looking to collaborate on Projects
 - ⚡ Fun fact: Developer 😎
 
