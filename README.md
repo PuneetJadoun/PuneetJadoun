@@ -9,13 +9,13 @@
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/puneet--kumar--singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/puneet--kumar--singh/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:punitku624@gmail.com" target="_blank">
+  <a href="mailto:punitku624@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/PunitKumar7951" target="_blank">
+  <a href="https://twitter.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
