@@ -2,10 +2,8 @@
 - 👀 I’m interested in Developing New things  
 - 🌱 I’m currently learning DevOps and MERN stack  
 - 💞️ I’m looking to collaborate on Projects  
-- 📫 How to reach me:  
-  - 📧 Mail: punitku624@gmail.com  
-  - 💼 LinkedIn: [Puneet Kumar Singh](https://www.linkedin.com/in/puneet--kumar--singh/)  
-- ⚡ Fun fact: Not an any  
+- ⚡ Fun fact: I turn ☕ into 💻 — Developer life!
+  
 
 ---
 
@@ -17,7 +15,7 @@
   <a href="mailto:punitku624@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://x.com/PunitKumar7951" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
