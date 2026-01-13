@@ -79,7 +79,7 @@
 ### 📚 More About Me
 
 <details>
-  <summary>Click here to read more...</summary>
+  <summary>Click here to read more..</summary>
   
   - I love problem-solving
   - Passionate about web development and full-stack technologies
